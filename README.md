@@ -6,12 +6,7 @@
 
 ### Sobre mim
 
-Eu sou um pesquisador da área de ciência da computação e atualmente estou cursando o doutorado na área de engenharia de software. 
-
-
-### O que você precisa saber sobre mim?
-
-Desde sempre ficava muito chateado quando precisava produzir algo e isso ficava em alguma pasta em meu computador, sendo assim, desde sempre criei esse hobby de postar e organizar tudo que eu produzo dentro do meu website e do meu github.
+Eu sou um pesquisador da área de ciência da computação, fiz mestrado, graduação e várias outras coisas na área acadêmica e atualmente estou cursando o doutorado na área de engenharia de software. Eu adoro programar e criar novos projetos, sempre me interessei muito pela computação e principalmente pela área de desenvolvimento web. Sou um apaixonado por música, jogos, e-sports, filmes.
 
 Atualmente meus maiores interesses são:
 
@@ -19,4 +14,12 @@ Atualmente meus maiores interesses são:
 - Processamento de Linguagem Natural
 - Desenvolvimento web
 
-- [Blog](https://www.computersciencemaster.com.br) ✍🏼 - Aqui escrevo sobre tudo que aprendi e estou aprendendo.
+### Por que eu crio conteúdo na internet?
+
+Durante toda minha formação acadêmica eu ficava muito chateado quando precisava produzir algo e isso ficava em alguma pasta em meu computador. Então, tive a ideia de compartilhar conteúdo e criei esse hobby de postar e organizar tudo que eu produzo dentro do meu website e do meu github.
+
+Acesse meu blog:
+
+- [Blog](https://www.computersciencemaster.com.br) 
+
+
