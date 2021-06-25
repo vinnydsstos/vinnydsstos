@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I'm Vinicius! / Olá meu nome é vinicius:D
 
-<!--
-**vinnydsstos/vinnydsstos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinnydsstos)](https://github.com/vinnydsstos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-dos-santos/)](https://www.linkedin.com/in/vinicius-dos-santos/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCsmikiRAV6dUaiC2ZVKShtQ)
 
-Here are some ideas to get you started:
+### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eu sou um pesquisador da área de ciência da computação atualmente cursando o doutorado e apaixonado pela área. Desde sempre ficava muito chateado quando precisava produzir algo e isso ficava em alguma pasta em meu computador, sendo assim, desde sempre criei esse hobby de postar e organizar tudo que eu produzo dentro do meu website e do meu github.
+
+Atualmente meus maiores interesses são:
+
+- Engenharia de software
+- Processamento de Linguagem Natural
+- Desenvolvimento web
+
+- [Blog](https://www.computersciencemaster.com.br) ✍🏼 - Aqui escrevo sobre tudo que aprendi e estou aprendendo.
