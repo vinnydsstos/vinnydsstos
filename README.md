@@ -6,7 +6,12 @@
 
 ### Sobre mim
 
-Eu sou um pesquisador da área de ciência da computação atualmente cursando o doutorado e apaixonado pela área. Desde sempre ficava muito chateado quando precisava produzir algo e isso ficava em alguma pasta em meu computador, sendo assim, desde sempre criei esse hobby de postar e organizar tudo que eu produzo dentro do meu website e do meu github.
+Eu sou um pesquisador da área de ciência da computação e atualmente estou cursando o doutorado na área de engenharia de software. 
+
+
+### O que você precisa saber sobre mim?
+
+Desde sempre ficava muito chateado quando precisava produzir algo e isso ficava em alguma pasta em meu computador, sendo assim, desde sempre criei esse hobby de postar e organizar tudo que eu produzo dentro do meu website e do meu github.
 
 Atualmente meus maiores interesses são:
 
