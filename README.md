@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-dos-santos/)](https://www.linkedin.com/in/vinicius-dos-santos/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCsmikiRAV6dUaiC2ZVKShtQ)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats para Vinnydsstos](https://github-readme-stats.vercel.app/api?username=vinnydsstos)](https://github.com/vinnydsstos/github-readme-stats)
 
 
 ### Sobre mim
