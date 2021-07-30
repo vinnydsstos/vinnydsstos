@@ -5,7 +5,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCsmikiRAV6dUaiC2ZVKShtQ)
 
 [![Stats para Vinnydsstos](https://github-readme-stats.vercel.app/api?username=vinnydsstos)](https://github.com/vinnydsstos/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnydsstos)](https://github.com/vinnydsstos/github-readme-stats)
+
 
 
 
