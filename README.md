@@ -4,6 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-dos-santos/)](https://www.linkedin.com/in/vinicius-dos-santos/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCsmikiRAV6dUaiC2ZVKShtQ)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Sobre mim
 
 Eu sou um pesquisador da área de ciência da computação, fiz mestrado, graduação e várias outras coisas na área acadêmica e atualmente estou cursando o doutorado na área de engenharia de software. Eu adoro programar e criar novos projetos, sempre me interessei muito pela computação e principalmente pela área de desenvolvimento web. Sou um apaixonado por música, jogos, e-sports, filmes.
