@@ -16,8 +16,9 @@ Eu sou um pesquisador da área de ciência da computação, fiz mestrado, gradua
 Atualmente meus maiores interesses são:
 
 - Engenharia de software
+- Desenvolvimento de aplicações web (principalmente em Java, PHP)
 - Processamento de Linguagem Natural
-- Desenvolvimento web
+
 
 ### Por que eu crio conteúdo na internet?
 
