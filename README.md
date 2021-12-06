@@ -18,6 +18,8 @@ Atualmente meus maiores interesses são:
 - Desenvolvimento de aplicações web
 - Processamento de Linguagem Natural
 
+---
+
 **1. Engenharia de software**
 
 Dentro dessa grande área tive minha formação básica incluindo conhecimentos, como: práticas ágeis (ex. TDD) e processos ágeis (ex. SCRUM), engenharia de requisitos, Modelagem Orientada a objetos (usando UML), gestão de projetos de software, entre outros tópicos. Ao cursar o mestrado comecei a pesquisar sobre o processo de Revisão Sistemática da literatura, no doutorado me aprofundei nesse tema propondo soluções e novas abordagens para agilizar e melhorar esse método.
@@ -29,6 +31,8 @@ Durante toda minha graduação e atuação profissional trabalhei com o desenvol
 **3. Processamento de linguagem natural**
 
 Essa subárea da inteligência artificial foi me apresentada no mestrado ao tentar criar soluções para revisões sistemáticas. Em conjunto ao aprendizado sobre esse tema, entendi um pouco sobre como funciona o mundo da Inteligência Artificial e Machine Learning. Estudar PLN foi enriquecedor e atualmente você vai encontrar muitos conteúdos produzidos por mim que abordam esse tema. Profissionalmente não pretendo seguir atuando nessa área, porém, guardo essas habilidades para usá-las em vários outros projetos e solucionar problemas difíceis de uma forma diferente.
+
+---
 
 ### Por que eu crio conteúdo na internet?
 
