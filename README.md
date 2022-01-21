@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vinicius! / Olá meu nome é vinicius:D
+# 👋 Olá eu sou o Vinicius! 😄 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinnydsstos)](https://github.com/vinnydsstos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-dos-santos/)](https://www.linkedin.com/in/vinicius-dos-santos/)
