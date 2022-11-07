@@ -1,6 +1,6 @@
 # 👋 Olá eu sou o Vinicius! 😄 
 
-[![Whatsapp Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://wa.me/5516992431468)](https://wa.me/5516992431468)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5516992431468)](https://wa.me/5516992431468)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vinnydsstos)](https://github.com/vinnydsstos)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-dos-santos/)](https://www.linkedin.com/in/vinicius-dos-santos/)
 
