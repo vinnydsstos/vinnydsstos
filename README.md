@@ -12,7 +12,7 @@ Software developer; PhD in computer science & Professor in Technical and Higher 
 
 ## Personal website & my content
 
-I have a personal website that you can access [here](vinnydsstos.github.io/academic-bio/).
+I have a personal website that you can access [here](https://vinnydsstos.github.io/academic-bio/).
 
 This profile contributes to several professional projects (teaching), research, or personal projects with different focuses. To better organize them, I created three organizations, which are:
 
@@ -44,7 +44,7 @@ Desenvolvedor de software; Ph.D em ciência da computação & Professor no Ensin
 
 ## Site pessoal & conteúdo
 
-Eu tenho um site pessoal que você pode acessar [aqui](vinnydsstos.github.io/academic-bio/).
+Eu tenho um site pessoal que você pode acessar [aqui](https://vinnydsstos.github.io/academic-bio/).
 
 Este perfil é colaborador de diversos projetos profissionais (ensino), de pesquisa, ou então pessoais que possuem focos diferentes entre si. Para melhor organizá-los criei três organizações, são elas:
 
