@@ -19,6 +19,7 @@ This profile contributes to several professional projects (teaching), research, 
 - [ComputerScienceMaster](https://github.com/ComputerScienceMaster) - Independent computer science teaching project with several articles related to software development, mainly web application development.
 - [Applications](https://github.com/csm-applications) - Open source applications developed in the academic field for teaching or research support.
 - [Research](https://github.com/CSM-Research) - Supplementary materials for scientific articles published in conferences and journals in the computing field.
+- [Projects](https://github.com/SENAISP-Unid601-Projetos/) - Technical and graduation projects.
 
 It really bothers me to produce anything to be stored only in a folder on my computer. So, I had the idea of ​​sharing content and created this hobby of posting and organizing everything I produce within my website and my GitHub.
 
@@ -51,6 +52,7 @@ Este perfil é colaborador de diversos projetos profissionais (ensino), de pesqu
 - [ComputerScienceMaster](https://github.com/ComputerScienceMaster) - Projeto de ensino de computação independente com vários artigos relacionado ao desenvolvimento de software, principalmente do desenvolvimento de aplicações web.
 - [Applications](https://github.com/csm-applications) - Aplicações de código aberto desenvolvidas no âmbito acadêmico tanto para ensino ou apoio à pesquisa.
 - [Research](https://github.com/CSM-Research) - Materiais suplementares para artigos científicos publicados em conferências e revistas da área da computação.
+- [Projects](https://github.com/SENAISP-Unid601-Projetos/) - Projetos do ensino técnico e graduação.
 
 Sempre odiei quando produzo algo e isso ficava em alguma pasta em meu computador. Então, tive a ideia de compartilhar conteúdo e criei esse hobby de postar e organizar tudo que eu produzo dentro do meu website e do meu github. 
 
